@@ -1,1 +1,1 @@
-# goorm_golang_basic
+# [goorm] 한 눈에 끝내는 고랭 기초
